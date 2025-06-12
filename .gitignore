@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build
+bin/
+obj/
+
+# NuGet
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.cache
